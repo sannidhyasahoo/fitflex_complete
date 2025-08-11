@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221390324709",
+    "project_id": "fitflex-clau",
+    "storage_bucket": "fitflex-clau.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221390324709:android:cb74a33b67685a46cce50c",
+        "android_client_info": {
+          "package_name": "com.example.fitflex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgXtBDt1YmahUIsYmZM1n3GVwliPKmQds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
